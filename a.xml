@@ -5,8 +5,8 @@
           <meta name="description">theme for arsenal fans</meta>
           <meta name="author">sharath kumar</meta>
           <meta name="author_email">sharath@royal.net</meta>
-          \\thumbnail
-          \\screenshot
+          <meta name="thumbnail">http://img828.imageshack.us/img828/4667/thumbnailm.jpg </meta>
+          <meta name="screenshot">http://img100.imageshack.us/img100/4526/screenshotso.jpg</meta>
      </configmap>
      <configmap type="skin">
         <attribute name="header.background_color">red</attribute>
