@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configmaps>
+      <configmap type="skin">
+          <meta  name="title">the gunners</meta>
+          <meta name="description">theme for arsenal fans</meta>
+          <meta name="author">sharath kumar</meta>
+          <meta name="author_email">sharath@royal.net</meta>
+          \\thumbnail
+          \\screenshot
+     </configmap>
+     <configmap type="skin">
+        <attribute name="header.background_color">red</attribute>
+        <attribute name="header.centre_image.url">http://www.freeimagehosting.net/image.php?78c47776f9.jpg</attribute>
+        <attribute name="header.tile_image.url">http://www.freeimagehosting.net/image.php?0f383cc2ce.jpg</attribute>
+        <attribute name="header.logo">beveled white</attribute>
+        <attribute name="header.link_color">black</attribute>
+        <attribute name="header.text_color">blue</attribute>
+        <attribute name="navbar.background_color">maroon</attribute>
+        <attribute name="navbar.border_color">red</attribute>
+        <attribute name="navbar.icons.icon_color">9c785e</attribute>
+        <attribute name="navbar.tab.selcted.link_color">green</attribute>
+        <attribute name="navbar.tab.unselected.link_color">aqua</attribute>
+        <attribute name="navbar.tab.unselected.border_color">green</attribute>
+        <attribute name="navbar.contacts.contact_color">black</attribute>
+        <attribute name="navbar.contacts.status_color">red</attribute>
+        <attribute name="navbar.contacts.hover_background_color">green</attribute>
+        <attribute name="navbar.contacts.card.border_color">red</attribute>
+        <attribute name="navbar.contacts.invite.background_color">orange</attribute>
+        <attribute name="navbar.contacts.invite.border_color">gray</attribute>
+        <attribute name="navbar.contacts.invite.text_color">blue</attribute>
+        <attribute name="navbar.contacts.invite.link_color">red</attribute>
+        <attribute name="gadget_area.chat.header.background_color">lime</attribute>
+        <attribute name="gadget_area.chat.header.highlight.background_color">white</attribute>
+        <attribute name="gadget_area.tab.border_color">red</attribute>
+        <attribute name="gadget_area.tab.selected.background_color">yellow</attribute>
+        <attribute name="gadget_area.tab.selected.text_color">blue</attribute>
+        <attribute name="gadget_area.tab.unselected.background_color">gray</attribute>
+        <attribute name="gadget_area.tab.unselected.text_color">gray</attribute>
+        <attribute name="gadget_area.border_color">aqua</attribute>
+        <attribute name="gadget_area.gadget.border_color">red</attribute>
+        <attribute name="gadget_area.gadget.hover.border_color">yellow</attribute>
+        <attribute name="gadget_area.gadget.header.background_color">fuchsia</attribute>
+        <attribute name="gadget_area.gadget.header.text_color">red</attribute>
+        <attribute name="gadget_area.gadget.body.link_color">gray</attribute>
+        <attribute name="gadget_area.icons.icon_color">d4ff00</attribute>
+
+    </configmap>
+   </configmaps>
+
+
+
+
